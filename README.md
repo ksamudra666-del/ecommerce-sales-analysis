@@ -37,5 +37,10 @@ python analysis.py
 - Bar chart visualization
 - Pie chart visualization
 
+## 📊 Sample Output
+
+![Project Output](output.png)
+
+
 ## 👨‍💻 Author
 Karan Samudra
