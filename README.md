@@ -16,3 +16,25 @@ It performs data cleaning, analysis, and visualization to generate business insi
 - Matplotlib
 
 ## 📁 Project Structure
+ecommerce-sales-analysis/
+│
+├── analysis.py
+├── ecommerce_sales.csv
+├── requirements.txt
+└── README.md
+
+## ▶️ How to Run
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run project:
+python analysis.py
+
+## 📈 Output
+- Sales insights in console
+- Bar chart visualization
+- Pie chart visualization
+
+## 👨‍💻 Author
+Karan Samudra
